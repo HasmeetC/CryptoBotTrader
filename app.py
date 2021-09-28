@@ -1,5 +1,3 @@
-"""Crypto Interview Assessment Module."""
-
 import os
 import schedule
 import time
